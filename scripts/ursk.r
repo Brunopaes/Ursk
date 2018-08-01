@@ -1,4 +1,3 @@
-setwd("C:/Users/Bruno Paes/Desktop")
 tab = read.csv(file="/Users/brunopaes/Desktop/Ursk/data/lazer.csv", sep=";", dec=",")
 names(tab) [1:2] = c("Código", "Gasto")
 library(RColorBrewer)
