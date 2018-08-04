@@ -12,6 +12,8 @@ This project contains __3__ directories:
 * __scripts:__ algorithms, libraries imports, comments;
 * __results:__ all project plots (Boxplots, plots, hist).
 
+----------------------------------------
+
 ## Utilised Packages ##
 
  * __Vanilla:__ Built-in libraries;
