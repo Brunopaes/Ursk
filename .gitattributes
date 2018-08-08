@@ -3,4 +3,6 @@
 
 .gitignore
 
+special-vendored-path/* linguist-vendored
+
 *.R linguist-language=R
