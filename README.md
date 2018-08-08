@@ -1,6 +1,6 @@
 # Ursk - An R Statistical introduction
 
-Using R (Version 3.5.0) in RStudio (Version 1.1.447), this RProject compose the 1/5 of the applied statistiscs I. The main purpose of this RProject was learn and get used with the language and IDE for data processment and data analysis.
+Using R (Version 3.5.0) in RStudio (Version 1.1.447), this RProject compose the 1/5 of the applied statistiscs I final's grade. The main purpose of this RProject was learn and get used with the language and IDE for data processment and data analysis.
 
 ----------------------------------------
 
